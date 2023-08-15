@@ -1,4 +1,4 @@
-# React JS Portfolio Website
+# HTML & CSS E-School Figma Website
 
 [🔗Live Demo🔗](https://e-school-project.vercel.app/)
 
